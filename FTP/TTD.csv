@@ -1,0 +1,6 @@
+Server1,Server2,Server3
+172.16.3.52,112.137.132.67,172.16.3.48
+vnunet,adminbackup11,vnunetd
+vnunet@#2017,,vnunet@#2017
+D:/tftp/FTP/Backup/172.16.3.52/,D:/tftp/FTP/Backup/112.137.132.67/,D:/tftp/FTP/Backup/172.16.3.48/
+-5,-2,-1
